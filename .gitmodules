@@ -1,0 +1,3 @@
+[submodule "emscripten-webxr"]
+	path = emscripten-webxr
+	url = https://github.com/vhiterabbit/emscripten-webxr
